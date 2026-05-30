@@ -136,11 +136,11 @@ Tests use a synthetic 210-row fixture (no real dataset required).
 
 ## Team
 
-| Name | Role |
-|---|---|
-| Sachin Venugopalan Nair | Data pipeline, evaluation harness, pipeline integration |
-| Punarva Bettadamane Channabasappa | DBSCAN |
-| Shreyas Sreekumar | KNN anomaly detection |
-| Srijan Girdhar | Logistic Regression |
-| Vivek Vidyadhar Kamath | XGBoost + SMOTE |
-| Shravani Kishor Kulkarni | Autoencoder |
+| Name |
+|---|
+| Punarva Bettadamane Channabasappa | 
+| Sachin Venugopalan Nair |
+| Shreyas Sreekumar | 
+| Srijan Girdhar |
+| Vivek Vidyadhar Kamath |
+| Shravani Kishor Kulkarni |

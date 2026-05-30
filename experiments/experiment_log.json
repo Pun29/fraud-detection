@@ -1,0 +1,164 @@
+[
+  {
+    "model_name": "majority_class_baseline",
+    "pr_auc": 0.7,
+    "roc_auc": 0.5,
+    "f1": 0.5714,
+    "recall": 1.0,
+    "threshold": 0.0,
+    "confusion_matrix": [
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        2
+      ]
+    ]
+  },
+  {
+    "model_name": "majority_class_baseline",
+    "pr_auc": 0.5009,
+    "roc_auc": 0.5,
+    "f1": 0.0035,
+    "recall": 1.0,
+    "threshold": 0.0,
+    "confusion_matrix": [
+      [
+        0,
+        42648
+      ],
+      [
+        0,
+        74
+      ]
+    ]
+  },
+  {
+    "model_name": "xgboost_smote",
+    "pr_auc": 0.7791,
+    "roc_auc": 0.9703,
+    "f1": 0.7692,
+    "recall": 0.7432,
+    "threshold": 0.9797,
+    "confusion_matrix": [
+      [
+        42634,
+        14
+      ],
+      [
+        19,
+        55
+      ]
+    ]
+  },
+  {
+    "model_name": "majority_class_baseline",
+    "pr_auc": 0.5009,
+    "roc_auc": 0.5,
+    "f1": 0.0035,
+    "recall": 1.0,
+    "threshold": 0.0,
+    "confusion_matrix": [
+      [
+        0,
+        42648
+      ],
+      [
+        0,
+        74
+      ]
+    ]
+  },
+  {
+    "model_name": "dbscan",
+    "pr_auc": 0.482,
+    "roc_auc": 0.7951,
+    "f1": 0.0089,
+    "recall": 0.9595,
+    "threshold": 0.5,
+    "confusion_matrix": [
+      [
+        26901,
+        15747
+      ],
+      [
+        3,
+        71
+      ]
+    ]
+  },
+  {
+    "model_name": "knn",
+    "pr_auc": 0.1034,
+    "roc_auc": 0.9512,
+    "f1": 0.2192,
+    "recall": 0.4324,
+    "threshold": 8.9813,
+    "confusion_matrix": [
+      [
+        42462,
+        186
+      ],
+      [
+        42,
+        32
+      ]
+    ]
+  },
+  {
+    "model_name": "logistic_regression",
+    "pr_auc": 0.7212,
+    "roc_auc": 0.9626,
+    "f1": 0.623,
+    "recall": 0.5135,
+    "threshold": 1.0,
+    "confusion_matrix": [
+      [
+        42638,
+        10
+      ],
+      [
+        36,
+        38
+      ]
+    ]
+  },
+  {
+    "model_name": "xgboost_smote",
+    "pr_auc": 0.7791,
+    "roc_auc": 0.9703,
+    "f1": 0.7692,
+    "recall": 0.7432,
+    "threshold": 0.9797,
+    "confusion_matrix": [
+      [
+        42634,
+        14
+      ],
+      [
+        19,
+        55
+      ]
+    ]
+  },
+  {
+    "model_name": "autoencoder",
+    "pr_auc": 0.2986,
+    "roc_auc": 0.9367,
+    "f1": 0.3671,
+    "recall": 0.3919,
+    "threshold": 15.6555,
+    "confusion_matrix": [
+      [
+        42593,
+        55
+      ],
+      [
+        45,
+        29
+      ]
+    ]
+  }
+]

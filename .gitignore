@@ -1,0 +1,4 @@
+*.pptx
+*.pdf
+data/raw/creditcard.csv
+.DS_Store
